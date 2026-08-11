@@ -1,0 +1,6 @@
+Method,Slippage_vs_VWAP_mean_bps,Slippage_vs_VWAP_std_bps,Class
+TWAP,24.2,14.2,Schedule
+VWAP-tracking,20.0,0.0,Schedule
+Forecast-greedy,19.8,2.60,Forecast
+Conformal-gated (kappa=0.5),19.9,2.14,Conformal
+Conformal-gated (kappa=1.0),19.9,2.06,Conformal
