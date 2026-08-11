@@ -1,0 +1,7 @@
+{
+  "nominal_coverage": 0.9,
+  "empirical_coverage": 0.8988717948717949,
+  "mean_halfwidth_bps": 70.91492673683797,
+  "conformal_q": 2.351747179884361,
+  "n_test_points": 19500
+}
