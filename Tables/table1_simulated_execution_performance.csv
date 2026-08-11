@@ -1,0 +1,9 @@
+Method,Slippage_vs_VWAP_mean_bps,Slippage_vs_VWAP_std_bps,Class
+Immediate,332.1,296.8,Naive
+TWAP,25.1,38.0,Schedule
+Almgren-Chriss,50.8,237.3,Schedule
+VWAP-tracking,20.0,0.0,Schedule
+PPO (RL 3 seeds),33.9,115.9,Learned
+Forecast-greedy,17.0,19.1,Forecast
+Conformal-gated (kappa=0.5),19.1,13.8,Conformal
+Conformal-gated (kappa=1.0),19.4,10.0,Conformal
